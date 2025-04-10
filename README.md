@@ -18,5 +18,5 @@ This project is part of my Data Analyst Internship and focuses on analyzing a bi
 - Views created for repeatable insights
 
 ## 📂 Files Included
-- `task3_queries.sql` – All SQL code
+- `Indian Bike Sales Queries.sql` – All SQL code
 
